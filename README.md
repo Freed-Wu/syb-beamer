@@ -1,4 +1,4 @@
-# honour-defense
+# syb-beamer
 A backup of my homework.
 
 ## Usage ##
